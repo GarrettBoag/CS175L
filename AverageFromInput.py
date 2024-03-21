@@ -21,5 +21,8 @@ def main():
         
         print(f'I read in {rep} number(s) Current number is:  {num} Total is: {total}')
     print(f'Average: {total / 3}')
+
+    pass
     #print(total)
-main()
+if __name__ == '__main__':
+    main()
